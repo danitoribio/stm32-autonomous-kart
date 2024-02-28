@@ -1,0 +1,14 @@
+../Core/Src/robot.c:20:13:initGPIOPin	24	static
+../Core/Src/robot.c:30:13:initOutputGPIOPin	24	static
+../Core/Src/robot.c:38:13:initAFGPIOPin	32	static
+../Core/Src/robot.c:49:13:initDriveModule	8	static
+../Core/Src/robot.c:67:13:initTimer2	4	static
+../Core/Src/robot.c:88:13:initTimer3	4	static
+../Core/Src/robot.c:112:13:initTimer4	4	static
+../Core/Src/robot.c:134:13:initUltrasonicAndBuzzerModule	8	static
+../Core/Src/robot.c:171:6:updateStatusGPIOPin	16	static
+../Core/Src/robot.c:193:13:updateStatusMotor	24	static
+../Core/Src/robot.c:223:6:createRobot	8	static
+../Core/Src/robot.c:228:6:toggleGPIOPin	16	static
+../Core/Src/robot.c:236:6:updateStatusBuzzer	16	static
+../Core/Src/robot.c:266:6:updateStatusRobot	24	static
